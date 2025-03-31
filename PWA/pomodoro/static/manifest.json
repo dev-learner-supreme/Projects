@@ -1,0 +1,21 @@
+{
+  "name": "SvelteKit Pomodoro",
+  "short_name": "Pomodoro",
+  "description": "A simple PWA Pomodoro timer.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F5DC",
+  "theme_color": "#D2B48C",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
